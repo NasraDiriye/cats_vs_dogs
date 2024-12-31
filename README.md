@@ -4,6 +4,9 @@ This project demonstrates how to build a convolutional neural network (CNN) and 
 
 Each folder contains images of cats and dogs, separated into their respective class directories.
 
+Link to the dataset:
+    https://drive.google.com/file/d/1ecoxWY3babiXsO18NZwr8aaP-ksVsPq-/view?usp=sharing
+
 
 ## Requirements
 
