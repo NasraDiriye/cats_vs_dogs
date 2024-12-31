@@ -2,21 +2,6 @@
 
 This project demonstrates how to build a convolutional neural network (CNN) and fine-tune a pre-trained model (ResNet18) to classify images of cats and dogs. The dataset is organized into training, validation, and test sets.
 
-Dataset
-
-The dataset is structured as follows:
-
-cats-vs-dogs-dataset/
-├── train/
-│   ├── cats/
-│   └── dogs/
-├── validation/
-│   ├── cats/
-│   └── dogs/
-└── test/
-    ├── cats/
-    └── dogs/
-
 Each folder contains images of cats and dogs, separated into their respective class directories.
 
 
@@ -28,7 +13,7 @@ Install the required Python libraries using:
 
 Additional requirements if running on Kaggle:
 
-    Ensure the dataset is correctly uploaded to Kaggle.
+- Ensure the dataset is correctly uploaded to Kaggle.
 
     
 
